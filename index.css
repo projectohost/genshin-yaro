@@ -68,6 +68,10 @@ h2 {
     padding-bottom: 10px;
 }
 
+p {
+    color: #e5c78b;
+}
+
 .grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
