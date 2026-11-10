@@ -72,6 +72,18 @@ p {
     color: #e5c78b;
 }
 
+img {
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.khaenriah-img {
+    width: 500px;
+    height: 5%;
+    object-fit: cover;
+}
+
 .grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
